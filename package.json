@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
+    "currency-codes": "^2.1.0",
     "telegraf": "^3.38.0"
   }
 }
